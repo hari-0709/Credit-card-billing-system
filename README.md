@@ -1,42 +1,8 @@
-✅ PROJECT STRUCTURE (23 Files)
-credit-card-billing-system/
-│
-├── src/
-│   └── billing.c
-│
-├── data/
-│   └── products.txt
-│
-├── docs/
-│   ├── 01_abstract.md
-│   ├── 02_features.md
-│   ├── 03_technical_requirements.md
-│   ├── 04_functional_requirements.md
-│   ├── 05_how_to_run.md
-│   ├── 06_data_storage.md
-│   ├── 07_menu_screen.md
-│   ├── 08_add_product_screen.md
-│   ├── 09_display_products_screen.md
-│   ├── 10_generate_bill_screen.md
-│   ├── 11_search_product_screen.md
-│   ├── 12_delete_product_screen.md
-│   ├── 13_edit_product_screen.md
-│   ├── 14_file_handling_details.md
-│   ├── 15_program_flowchart.md
-│   ├── 16_use_case_diagram.md
-│   ├── 17_er_diagram.md
-│   ├── 18_test_cases.md
-│   ├── 19_limitations.md
-│   ├── 20_future_scope.md
-│   ├── 21_conclusion.md
-│   ├── 22_references.md
-│   └── 23_team_details.md
 
 
-Below are the contents of all 23 markdown files, followed by the C program.
 
 📘 01_abstract.md
-# Abstract
+# Abstrac
 
 The Credit Card Billing System is a console-based C program designed to
 simulate basic operations of a retail billing module. The system allows
