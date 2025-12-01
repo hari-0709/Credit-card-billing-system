@@ -2,7 +2,7 @@
 
 
 📘 01_abstract.md
-# Abstrac
+# Abstract
 
 The Credit Card Billing System is a console-based C program designed to
 simulate basic operations of a retail billing module. The system allows
